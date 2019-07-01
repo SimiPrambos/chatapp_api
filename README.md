@@ -1,5 +1,5 @@
-# InstaClone Api
-Example clone of instagram api with express.js framework
+# chatapp_api
+Example chat api with express.js framework
 
 
 ## Available Endpoint
